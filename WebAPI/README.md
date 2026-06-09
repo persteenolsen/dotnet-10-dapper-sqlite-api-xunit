@@ -4,7 +4,7 @@
 
 # Last updated
 
-- 25-02-2026
+- 09-06-2026
 
 # Source code
 dotnet-10-dapper-sqlite-crud-api
