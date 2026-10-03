@@ -4,7 +4,7 @@
 
 # Last updated
 
-- 25-02-2026
+- 03-10-2026
 
 # NuGet Packages with commands
 - dotnet add package AutoFixture
